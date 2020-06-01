@@ -1,2 +1,2 @@
 # bootcamp-repo
-Bootcamp Praactice
+Bootcamp Practice
